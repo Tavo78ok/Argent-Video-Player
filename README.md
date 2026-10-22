@@ -40,7 +40,8 @@ GTK4 + libadwaita · GStreamer · Contenido en línea (YouTube, HLS, radio/TV) �
 | ![Pantalla de inicio](docs/screenshot-inicio.png) | ![Reproduciendo](docs/screenshot-reproduciendo.png) |
 
 > 📌 Las imágenes van en `docs/`: guardá tus capturas con los nombres
-> `screenshot-inicio.png` y `screenshot-reproduciendo.png`.
+> `screenshot-inicio.png` y `<img width="1440" height="900" alt="screenshot-inicio" src="https://github.com/user-attachments/assets/e2e91ed0-abcd-49af-a2d2-97d05a58b448" /><img width="1440" height="900" alt="screenshot-reproduciendo" src="https://github.com/user-attachments/assets/9e05bf0a-855c-47d3-a18c-bcc7879b9080" />
+.png`.
 
 ## 📦 Instalar como paquete .deb
 
