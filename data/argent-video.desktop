@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Argent Video
+GenericName=Reproductor de Video
+Comment=Reproductor moderno GTK4/libadwaita con YouTube y streams en línea
+Exec=argent-video %U
+Icon=argent-video
+Terminal=false
+Categories=AudioVideo;Video;GTK;
+Keywords=video;player;reproductor;youtube;stream;hls;m3u8;musica;streaming;
+StartupNotify=true
+StartupWMClass=os.argentos.ArgentVideo
