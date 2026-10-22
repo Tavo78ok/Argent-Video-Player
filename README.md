@@ -37,7 +37,7 @@ GTK4 + libadwaita · GStreamer · Contenido en línea (YouTube, HLS, radio/TV) �
 
 | Inicio | Reproduciendo |
 |---|---|
-| ![Pantalla de inicio](docs/screenshot-inicio.png) | ![Reproduciendo](docs/screenshot-reproduciendo.png) |
+| ![Pantalla de inicio](<img width="1440" height="900" alt="screenshot-inicio" src="https://github.com/user-attachments/assets/71f130c5-17c3-414b-b6a4-71192dbd1394" />) | ![Reproduciendo](<img width="1440" height="900" alt="screenshot-reproduciendo" src="https://github.com/user-attachments/assets/58c7624c-6754-4d36-8a4c-20b94c54ed49" />) |
 
 > 📌 Las imágenes van en `docs/`: guardá tus capturas con los nombres
 > `<img width="1440" height="900" alt="screenshot-inicio" src="https://github.com/user-attachments/assets/71f130c5-17c3-414b-b6a4-71192dbd1394" />
